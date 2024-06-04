@@ -1,3 +1,12 @@
-# Bem-vindo aos testes GITHUB
+# NOME DO PROJETO
 
-TESTE
+Projeto tal de tal coisa
+
+## Objetivo:
+
+dadsadasdasdasdasdsa
+
+## Participantes:
+
+### *Alexandre Pereira de Souza*
+

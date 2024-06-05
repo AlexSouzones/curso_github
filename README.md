@@ -1,6 +1,4 @@
-# NOME DO PROJETO
-
-Projeto GIT & Github
+# Projeto GIT & Github
 
 ## Objetivo:
 

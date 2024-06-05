@@ -8,5 +8,3 @@ function mostraSobrenome (sobrenome) {
 }
 
 // finalizado o sistema da home
-
-/// teste para angelica

@@ -1,10 +1,10 @@
 # NOME DO PROJETO
 
-Projeto tal de tal coisa
+Projeto GIT & Github
 
 ## Objetivo:
 
-dadsadasdasdasdasdsa
+Projeto exclusivamente para testes de código GIT, uso de versionamento e configurações do GITHUB.
 
 ## Participantes:
 

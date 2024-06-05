@@ -11,4 +11,4 @@ Projeto exclusivamente para testes de código GIT, uso de versionamento e config
 ### *Alexandre Pereira de Souza*
 
 ### Status do Projeto
-- [ ] Concluído
+- [x] Concluído
